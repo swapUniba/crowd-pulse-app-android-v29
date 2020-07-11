@@ -74,328 +74,329 @@
 34-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:28:9-41
 35        android:supportsRtl="true"
 35-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:29:9-35
-36        android:theme="@style/AppTheme"
-36-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:30:9-40
-37        android:usesCleartextTraffic="true" >
-37-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:31:9-44
-38        <activity
-38-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:32:9-40:20
-39            android:name="com.swapuniba.crowdpulse.main.ExplanationPermissions"
-39-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:32:19-62
-40            android:configChanges="keyboardHidden|orientation|screenSize"
-40-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:33:13-74
-41            android:label="@string/app_name" >
-41-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:34:13-45
-42            <intent-filter>
-42-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:35:13-39:29
-43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:36:17-69
-43-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:36:25-66
-44
-45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:38:17-77
-45-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:38:27-74
-46            </intent-filter>
-47        </activity>
-48        <activity android:name="com.swapuniba.crowdpulse.debug.DebugActivity2" />
-48-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:41:9-58
-48-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:41:19-55
-49        <activity android:name="com.swapuniba.crowdpulse.debug.DebugActivity" />
-49-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:42:9-57
-49-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:42:19-54
-50        <activity
-50-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:43:9-47:20
-51            android:name="com.swapuniba.crowdpulse.main.Intro"
-51-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:44:13-39
-52            android:configChanges="keyboardHidden|orientation|screenSize"
-52-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:45:13-74
-53            android:label="@string/app_name" >
-53-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:46:13-45
-54        </activity>
-55        <activity
-55-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:48:9-51:48
-56            android:name="com.swapuniba.crowdpulse.main.SetIP"
-56-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:49:13-39
-57            android:configChanges="keyboardHidden|orientation|screenSize"
-57-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:50:13-74
-58            android:label="@string/app_name" />
-58-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:51:13-45
-59        <activity
-59-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:52:9-55:48
-60            android:name="com.swapuniba.crowdpulse.main.Login"
-60-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:53:13-39
-61            android:configChanges="keyboardHidden|orientation|screenSize"
-61-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:54:13-74
-62            android:label="@string/app_name" />
-62-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:55:13-45
-63        <activity
-63-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:56:9-59:48
-64            android:name="com.swapuniba.crowdpulse.main.Main"
-64-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:57:13-38
-65            android:configChanges="keyboardHidden|orientation|screenSize"
-65-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:58:13-74
-66            android:label="@string/app_name" />
-66-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:59:13-45
-67        <activity
-67-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:60:9-64:52
-68            android:name="com.swapuniba.crowdpulse.config.ControlPanel"
-68-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:61:13-48
-69            android:configChanges="orientation|keyboardHidden"
-69-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:62:13-63
-70            android:label="@string/app_name"
-70-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:63:13-45
-71            android:screenOrientation="portrait" />
-71-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:64:13-49
-72
-73        <receiver android:name="com.swapuniba.crowdpulse.main.BackgroundService" />
-73-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:66:9-60
-73-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:66:19-57
-74        <receiver android:name="com.swapuniba.crowdpulse.reactive.RestartApp" >
-74-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:67:9-71:20
-74-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:67:19-54
-75            <intent-filter>
-75-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:68:13-70:29
-76                <action android:name="android.intent.action.BOOT_COMPLETED" />
-76-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:17-79
-76-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:25-76
-77            </intent-filter>
-78        </receiver>
-79        <receiver
-79-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:72:9-78:20
-80            android:name="com.swapuniba.crowdpulse.handlers.GpsReceiver"
-80-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:73:13-49
-81            android:exported="true" >
-81-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:74:13-36
-82            <intent-filter>
-82-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:75:13-77:29
-83                <action android:name="com.swapuniba.crowdpulse.action.PROCESS_UPDATES" />
-83-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:76:17-90
-83-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:76:25-87
-84            </intent-filter>
-85        </receiver>
-86        <receiver
-86-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:79:9-86:20
-87            android:name="com.swapuniba.crowdpulse.handlers.AtivityReceiver_v28"
-87-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:80:13-57
-88            android:exported="true"
-88-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:81:13-36
-89            android:permission="com.google.android.gms.permission.ACTIVITY_RECOGNITION" >
-89-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:82:13-88
-90            <intent-filter>
-90-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:83:13-85:29
-91                <action android:name="com.swapuniba.crowdpulse.TRANSITIONS_RECEIVER_ACTION" />
-91-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:84:17-95
-91-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:84:25-92
-92            </intent-filter>
-93        </receiver>
-94
-95        <service
-95-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:88:9-92:72
-96            android:name="com.swapuniba.crowdpulse.handlers.ActivityHandler"
-96-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:89:13-53
-97            android:enabled="true"
-97-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:90:13-35
-98            android:label="ActivityHandler"
-98-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:91:13-44
-99            android:permission="android.permission.BIND_JOB_SERVICE" />
-99-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:92:13-69
-100
-101        <provider
-101-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:31:9-37:35
-102            android:name="androidx.work.impl.WorkManagerInitializer"
-102-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:32:13-69
-103            android:authorities="com.swapuniba.crowdpulse.workmanager-init"
-103-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:33:13-68
-104            android:directBootAware="false"
-104-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:34:13-44
-105            android:exported="false"
-105-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:35:13-37
-106            android:multiprocess="true" />
-106-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:36:13-40
-107
-108        <service
-108-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:39:9-44:35
-109            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
-109-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:40:13-88
-110            android:directBootAware="false"
-110-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:41:13-44
-111            android:enabled="@bool/enable_system_alarm_service_default"
-111-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:42:13-72
-112            android:exported="false" />
-112-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:43:13-37
-113        <service
-113-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:45:9-51:35
-114            android:name="androidx.work.impl.background.systemjob.SystemJobService"
-114-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:46:13-84
-115            android:directBootAware="false"
-115-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:47:13-44
-116            android:enabled="@bool/enable_system_job_service_default"
-116-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:48:13-70
-117            android:exported="true"
-117-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:49:13-36
-118            android:permission="android.permission.BIND_JOB_SERVICE" />
-118-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:50:13-69
-119        <service
-119-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:52:9-57:35
-120            android:name="androidx.work.impl.foreground.SystemForegroundService"
-120-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:53:13-81
-121            android:directBootAware="false"
-121-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:54:13-44
-122            android:enabled="@bool/enable_system_foreground_service_default"
-122-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:55:13-77
-123            android:exported="false" />
-123-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:56:13-37
-124
-125        <receiver
-125-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:59:9-64:35
-126            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
-126-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:60:13-88
-127            android:directBootAware="false"
-127-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:61:13-44
-128            android:enabled="true"
-128-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:62:13-35
-129            android:exported="false" />
-129-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:63:13-37
-130        <receiver
-130-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:65:9-75:20
-131            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
-131-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:66:13-106
-132            android:directBootAware="false"
-132-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:67:13-44
-133            android:enabled="false"
-133-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:68:13-36
-134            android:exported="false" >
-134-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:69:13-37
-135            <intent-filter>
-135-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:71:13-74:29
-136                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
-136-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:72:17-87
-136-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:72:25-84
-137                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
-137-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:73:17-90
-137-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:73:25-87
-138            </intent-filter>
-139        </receiver>
-140        <receiver
-140-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:76:9-86:20
-141            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
-141-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:77:13-104
-142            android:directBootAware="false"
-142-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:78:13-44
-143            android:enabled="false"
-143-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:79:13-36
-144            android:exported="false" >
-144-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:80:13-37
-145            <intent-filter>
-145-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:82:13-85:29
-146                <action android:name="android.intent.action.BATTERY_OKAY" />
-146-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:83:17-77
-146-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:83:25-74
-147                <action android:name="android.intent.action.BATTERY_LOW" />
-147-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:84:17-76
-147-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:84:25-73
-148            </intent-filter>
-149        </receiver>
-150        <receiver
-150-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:87:9-97:20
-151            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
-151-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:88:13-104
-152            android:directBootAware="false"
-152-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:89:13-44
-153            android:enabled="false"
-153-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:90:13-36
-154            android:exported="false" >
-154-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:91:13-37
-155            <intent-filter>
-155-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:93:13-96:29
-156                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
-156-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:94:17-83
-156-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:94:25-80
-157                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
-157-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:95:17-82
-157-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:95:25-79
-158            </intent-filter>
-159        </receiver>
-160        <receiver
-160-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:98:9-107:20
-161            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
-161-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:99:13-103
-162            android:directBootAware="false"
-162-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:100:13-44
-163            android:enabled="false"
-163-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:101:13-36
-164            android:exported="false" >
-164-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:102:13-37
-165            <intent-filter>
-165-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:104:13-106:29
-166                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-166-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:105:17-79
-166-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:105:25-76
-167            </intent-filter>
-168        </receiver>
-169        <receiver
-169-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:108:9-119:20
-170            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
-170-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:109:13-88
-171            android:directBootAware="false"
-171-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:110:13-44
-172            android:enabled="false"
-172-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:111:13-36
-173            android:exported="false" >
-173-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:112:13-37
-174            <intent-filter>
-174-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:114:13-118:29
-175                <action android:name="android.intent.action.BOOT_COMPLETED" />
-175-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:17-79
-175-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:25-76
-176                <action android:name="android.intent.action.TIME_SET" />
-176-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:116:17-73
-176-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:116:25-70
-177                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
-177-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:117:17-81
-177-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:117:25-78
-178            </intent-filter>
-179        </receiver>
-180        <receiver
-180-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:120:9-129:20
-181            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
-181-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:121:13-99
-182            android:directBootAware="false"
-182-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:122:13-44
-183            android:enabled="@bool/enable_system_alarm_service_default"
-183-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:123:13-72
-184            android:exported="false" >
-184-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:124:13-37
-185            <intent-filter>
-185-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:126:13-128:29
-186                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
-186-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:127:17-98
-186-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:127:25-95
-187            </intent-filter>
-188        </receiver>
-189
-190        <activity
-190-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-191            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-191-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-192            android:exported="false"
-192-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-193            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-193-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-194
-195        <meta-data
-195-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\35167e9f3c079d13b16aded02337fcf4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-196            android:name="com.google.android.gms.version"
-196-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\35167e9f3c079d13b16aded02337fcf4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-197            android:value="@integer/google_play_services_version" />
-197-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\35167e9f3c079d13b16aded02337fcf4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-198
-199        <service
-199-->[androidx.room:room-runtime:2.2.3] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\5f03ae9a4ec8352b57fd369ab039a2f8\room-runtime-2.2.3\AndroidManifest.xml:25:9-27:40
-200            android:name="androidx.room.MultiInstanceInvalidationService"
-200-->[androidx.room:room-runtime:2.2.3] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\5f03ae9a4ec8352b57fd369ab039a2f8\room-runtime-2.2.3\AndroidManifest.xml:26:13-74
-201            android:exported="false" />
-201-->[androidx.room:room-runtime:2.2.3] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\5f03ae9a4ec8352b57fd369ab039a2f8\room-runtime-2.2.3\AndroidManifest.xml:27:13-37
-202    </application>
-203
-204</manifest>
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme"
+37-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:30:9-40
+38        android:usesCleartextTraffic="true" >
+38-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:31:9-44
+39        <activity
+39-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:32:9-40:20
+40            android:name="com.swapuniba.crowdpulse.main.ExplanationPermissions"
+40-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:32:19-62
+41            android:configChanges="keyboardHidden|orientation|screenSize"
+41-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:33:13-74
+42            android:label="@string/app_name" >
+42-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:34:13-45
+43            <intent-filter>
+43-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:35:13-39:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:36:17-69
+44-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:36:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:38:17-77
+46-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:38:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity android:name="com.swapuniba.crowdpulse.debug.DebugActivity2" />
+49-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:41:9-58
+49-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:41:19-55
+50        <activity android:name="com.swapuniba.crowdpulse.debug.DebugActivity" />
+50-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:42:9-57
+50-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:42:19-54
+51        <activity
+51-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:43:9-47:20
+52            android:name="com.swapuniba.crowdpulse.main.Intro"
+52-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:44:13-39
+53            android:configChanges="keyboardHidden|orientation|screenSize"
+53-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:45:13-74
+54            android:label="@string/app_name" >
+54-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:46:13-45
+55        </activity>
+56        <activity
+56-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:48:9-51:48
+57            android:name="com.swapuniba.crowdpulse.main.SetIP"
+57-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:49:13-39
+58            android:configChanges="keyboardHidden|orientation|screenSize"
+58-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:50:13-74
+59            android:label="@string/app_name" />
+59-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:51:13-45
+60        <activity
+60-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:52:9-55:48
+61            android:name="com.swapuniba.crowdpulse.main.Login"
+61-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:53:13-39
+62            android:configChanges="keyboardHidden|orientation|screenSize"
+62-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:54:13-74
+63            android:label="@string/app_name" />
+63-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:55:13-45
+64        <activity
+64-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:56:9-59:48
+65            android:name="com.swapuniba.crowdpulse.main.Main"
+65-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:57:13-38
+66            android:configChanges="keyboardHidden|orientation|screenSize"
+66-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:58:13-74
+67            android:label="@string/app_name" />
+67-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:59:13-45
+68        <activity
+68-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:60:9-64:52
+69            android:name="com.swapuniba.crowdpulse.config.ControlPanel"
+69-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:61:13-48
+70            android:configChanges="orientation|keyboardHidden"
+70-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:62:13-63
+71            android:label="@string/app_name"
+71-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:63:13-45
+72            android:screenOrientation="portrait" />
+72-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:64:13-49
+73
+74        <receiver android:name="com.swapuniba.crowdpulse.main.BackgroundService" />
+74-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:66:9-60
+74-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:66:19-57
+75        <receiver android:name="com.swapuniba.crowdpulse.reactive.RestartApp" >
+75-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:67:9-71:20
+75-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:67:19-54
+76            <intent-filter>
+76-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:68:13-70:29
+77                <action android:name="android.intent.action.BOOT_COMPLETED" />
+77-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:17-79
+77-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:25-76
+78            </intent-filter>
+79        </receiver>
+80        <receiver
+80-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:72:9-78:20
+81            android:name="com.swapuniba.crowdpulse.handlers.GpsReceiver"
+81-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:73:13-49
+82            android:exported="true" >
+82-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:74:13-36
+83            <intent-filter>
+83-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:75:13-77:29
+84                <action android:name="com.swapuniba.crowdpulse.action.PROCESS_UPDATES" />
+84-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:76:17-90
+84-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:76:25-87
+85            </intent-filter>
+86        </receiver>
+87        <receiver
+87-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:79:9-86:20
+88            android:name="com.swapuniba.crowdpulse.handlers.AtivityReceiver_v28"
+88-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:80:13-57
+89            android:exported="true"
+89-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:81:13-36
+90            android:permission="com.google.android.gms.permission.ACTIVITY_RECOGNITION" >
+90-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:82:13-88
+91            <intent-filter>
+91-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:83:13-85:29
+92                <action android:name="com.swapuniba.crowdpulse.TRANSITIONS_RECEIVER_ACTION" />
+92-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:84:17-95
+92-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:84:25-92
+93            </intent-filter>
+94        </receiver>
+95
+96        <service
+96-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:88:9-92:72
+97            android:name="com.swapuniba.crowdpulse.handlers.ActivityHandler"
+97-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:89:13-53
+98            android:enabled="true"
+98-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:90:13-35
+99            android:label="ActivityHandler"
+99-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:91:13-44
+100            android:permission="android.permission.BIND_JOB_SERVICE" />
+100-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:92:13-69
+101
+102        <provider
+102-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:31:9-37:35
+103            android:name="androidx.work.impl.WorkManagerInitializer"
+103-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:32:13-69
+104            android:authorities="com.swapuniba.crowdpulse.workmanager-init"
+104-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:33:13-68
+105            android:directBootAware="false"
+105-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:34:13-44
+106            android:exported="false"
+106-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:35:13-37
+107            android:multiprocess="true" />
+107-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:36:13-40
+108
+109        <service
+109-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:39:9-44:35
+110            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+110-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:40:13-88
+111            android:directBootAware="false"
+111-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:41:13-44
+112            android:enabled="@bool/enable_system_alarm_service_default"
+112-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:42:13-72
+113            android:exported="false" />
+113-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:43:13-37
+114        <service
+114-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:45:9-51:35
+115            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+115-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:46:13-84
+116            android:directBootAware="false"
+116-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:47:13-44
+117            android:enabled="@bool/enable_system_job_service_default"
+117-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:48:13-70
+118            android:exported="true"
+118-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:49:13-36
+119            android:permission="android.permission.BIND_JOB_SERVICE" />
+119-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:50:13-69
+120        <service
+120-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:52:9-57:35
+121            android:name="androidx.work.impl.foreground.SystemForegroundService"
+121-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:53:13-81
+122            android:directBootAware="false"
+122-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:54:13-44
+123            android:enabled="@bool/enable_system_foreground_service_default"
+123-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:55:13-77
+124            android:exported="false" />
+124-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:56:13-37
+125
+126        <receiver
+126-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:59:9-64:35
+127            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+127-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:60:13-88
+128            android:directBootAware="false"
+128-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:61:13-44
+129            android:enabled="true"
+129-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:62:13-35
+130            android:exported="false" />
+130-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:63:13-37
+131        <receiver
+131-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:65:9-75:20
+132            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+132-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:66:13-106
+133            android:directBootAware="false"
+133-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:67:13-44
+134            android:enabled="false"
+134-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:68:13-36
+135            android:exported="false" >
+135-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:69:13-37
+136            <intent-filter>
+136-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:71:13-74:29
+137                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+137-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:72:17-87
+137-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:72:25-84
+138                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+138-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:73:17-90
+138-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:73:25-87
+139            </intent-filter>
+140        </receiver>
+141        <receiver
+141-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:76:9-86:20
+142            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+142-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:77:13-104
+143            android:directBootAware="false"
+143-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:78:13-44
+144            android:enabled="false"
+144-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:79:13-36
+145            android:exported="false" >
+145-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:80:13-37
+146            <intent-filter>
+146-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:82:13-85:29
+147                <action android:name="android.intent.action.BATTERY_OKAY" />
+147-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:83:17-77
+147-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:83:25-74
+148                <action android:name="android.intent.action.BATTERY_LOW" />
+148-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:84:17-76
+148-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:84:25-73
+149            </intent-filter>
+150        </receiver>
+151        <receiver
+151-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:87:9-97:20
+152            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+152-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:88:13-104
+153            android:directBootAware="false"
+153-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:89:13-44
+154            android:enabled="false"
+154-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:90:13-36
+155            android:exported="false" >
+155-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:91:13-37
+156            <intent-filter>
+156-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:93:13-96:29
+157                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+157-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:94:17-83
+157-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:94:25-80
+158                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+158-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:95:17-82
+158-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:95:25-79
+159            </intent-filter>
+160        </receiver>
+161        <receiver
+161-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:98:9-107:20
+162            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+162-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:99:13-103
+163            android:directBootAware="false"
+163-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:100:13-44
+164            android:enabled="false"
+164-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:101:13-36
+165            android:exported="false" >
+165-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:102:13-37
+166            <intent-filter>
+166-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:104:13-106:29
+167                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+167-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:105:17-79
+167-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:105:25-76
+168            </intent-filter>
+169        </receiver>
+170        <receiver
+170-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:108:9-119:20
+171            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+171-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:109:13-88
+172            android:directBootAware="false"
+172-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:110:13-44
+173            android:enabled="false"
+173-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:111:13-36
+174            android:exported="false" >
+174-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:112:13-37
+175            <intent-filter>
+175-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:114:13-118:29
+176                <action android:name="android.intent.action.BOOT_COMPLETED" />
+176-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:17-79
+176-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:25-76
+177                <action android:name="android.intent.action.TIME_SET" />
+177-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:116:17-73
+177-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:116:25-70
+178                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+178-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:117:17-81
+178-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:117:25-78
+179            </intent-filter>
+180        </receiver>
+181        <receiver
+181-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:120:9-129:20
+182            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+182-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:121:13-99
+183            android:directBootAware="false"
+183-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:122:13-44
+184            android:enabled="@bool/enable_system_alarm_service_default"
+184-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:123:13-72
+185            android:exported="false" >
+185-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:124:13-37
+186            <intent-filter>
+186-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:126:13-128:29
+187                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+187-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:127:17-98
+187-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:127:25-95
+188            </intent-filter>
+189        </receiver>
+190
+191        <activity
+191-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+192            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+192-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+193            android:exported="false"
+193-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+194            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+194-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+195
+196        <meta-data
+196-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\35167e9f3c079d13b16aded02337fcf4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+197            android:name="com.google.android.gms.version"
+197-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\35167e9f3c079d13b16aded02337fcf4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+198            android:value="@integer/google_play_services_version" />
+198-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\35167e9f3c079d13b16aded02337fcf4\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+199
+200        <service
+200-->[androidx.room:room-runtime:2.2.3] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\5f03ae9a4ec8352b57fd369ab039a2f8\room-runtime-2.2.3\AndroidManifest.xml:25:9-27:40
+201            android:name="androidx.room.MultiInstanceInvalidationService"
+201-->[androidx.room:room-runtime:2.2.3] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\5f03ae9a4ec8352b57fd369ab039a2f8\room-runtime-2.2.3\AndroidManifest.xml:26:13-74
+202            android:exported="false" />
+202-->[androidx.room:room-runtime:2.2.3] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\5f03ae9a4ec8352b57fd369ab039a2f8\room-runtime-2.2.3\AndroidManifest.xml:27:13-37
+203    </application>
+204
+205</manifest>

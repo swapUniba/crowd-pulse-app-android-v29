@@ -9,6 +9,7 @@ import android.text.TextUtils;
 import com.google.gson.Gson;
 import com.swapuniba.crowdpulse.config.Constants;
 import com.swapuniba.crowdpulse.config.SettingFile;
+import com.swapuniba.crowdpulse.utility.Utility;
 
 import java.util.Calendar;
 import java.util.Collection;
@@ -20,6 +21,7 @@ import java.util.Map;
 import java.util.Queue;
 import java.util.TreeSet;
 import java.util.UUID;
+import java.util.concurrent.TimeUnit;
 
 /**
  * In questa classe sono presenti tutti i metodi necessari a gestire le reattivazioni dei lavori e
@@ -277,6 +279,7 @@ public class HandlerReactive {
 
             String key = entry.getKey(); // chiave in preference se deve essere letto o meno
             String key_s = preference.getString(key,Constants.no_record); //valore effettivo in preference
+
             if(TextUtils.equals(key_s , Constants.record)){ //se deve essere estratta
 
                 String value = entry.getValue(); //il valore effettivo attualmente
@@ -298,7 +301,9 @@ public class HandlerReactive {
         }
 
 
-
+        if(nextTime<Utility.getTime(TimeUnit.MINUTES , 30)){
+            return Utility.getTime(TimeUnit.MINUTES , 30);
+        }
         return nextTime;
     }
 

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Marchetti\\Desktop\\CrowdPulse-v-Alarm-5m\\crowd-pulse-app-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\Marchetti\\Desktop\\Ultimate Version\\crowd-pulse-app-android-v29\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Marchetti\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\values-v21\\values-v21.xml",
