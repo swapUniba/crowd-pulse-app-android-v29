@@ -1,13 +1,13 @@
 # Applicazione Android per l'estrazione ed invio di dati al server Myrror
 Il seguente framework è formato da un insieme di package che collaborano tra loro
 per estrarre i dati relativi al GPS , agli Accounts associati allo smartphone , alle attività svolte dall'utente , ai
-dati statistici di rete , delle app installate sul dispositivo e del display. In seguito i dati vengono inviati al server sotto formato di oggetti Json.
+dati statistici di rete , delle app installate sul dispositivo e del display. In seguito i dati vengono inviati al server come oggetti Json.
 
 ## Elenco dei package:
-* **business_object**: contiene le classi rappresentati i dati.
-Ognuna delle classi presenti in questo package verrà mappata all'interno del DB. Ogni dato verrà inviato  al server sotto formato Json , per questo ogni classe in questo package estende AbstractData la quale implementa 3 metodi per la gestione e trasformazione degli oggetti in Json.
+* **business_object**: contiene le classi che rappresentano i dati.
+Ognuna delle classi presenti in questo package verrà mappata all'interno del DB. Ogni dato verrà inviato  al server come oggetti Json , per questo ogni classe in questo package estende AbstractData la quale implementa 3 metodi per la gestione e trasformazione degli oggetti in Json.
 
-* **handlers**: sono presenti le classi di servizio (una per ogni business_object) che a partire dai dati presenti nel dispositivo li convertono nelle classi indicate nel package business_object, così da poterle utilizzare o inviare, in più per ogni singolo dato possono essere chiamate le funzioni di  salvataggio o aggiornamento del dato nel DB interno l’applicazione e le apposite funzioni per verificare se è possibile rilevare il dato o vi è necessità di aspettare.
+* **handlers**: sono presenti le classi di servizio (una per ogni business_object) che a partire dai dati presenti nel dispositivo li convertono nelle classi indicate nel package business_object, così da poterle utilizzare o inviare, in più per ogni singolo dato possono essere chiamate sia le funzioni di  salvataggio o aggiornamento del dato nel DB interno l’applicazione e sia le apposite funzioni per verificare se è possibile rilevare il dato o vi è necessità di aspettare.
 
 * **comunication**: Questo package contiene tutte le classi necessarie per la comunicazione con l’esterno, come l’istanziazione della socket per la comunicazione con il server e la funzione di passaggio dei dati al server.
 
@@ -21,7 +21,7 @@ Ognuna delle classi presenti in questo package verrà mappata all'interno del DB
 
 * **utility**: contiene due classi contenenti metodi utilizzati nella maggior parte delle classi per gestire e ottenere le date.
 
-* **debug**: contiene le classi per svolgere le attività di debug sul codice.
+* **debug**: contiene le classi per svolgere alcune attività di debug sul codice.
 
 
 ## Installazione dell'Applicazione
@@ -33,7 +33,7 @@ L'installazione può avvenire principalmente in due modi:
 
 ### Estrazione dei dati:
 L'estrazione dei dati avviene attraverso la creazione di un allarme attivato dopo essere trascorso il minore intervallo definito nel Pannello di Controllo.
-Dopo l'attivazione, la classe BackgroundService si occuperà di ricevere l'attivazione ed estrarre e salvare i dati.
+Dopo l'attivazione, la classe BackgroundService si occuperà di ricevere l'attivazione e quindi potrà estrarre e salvare i dati.
 L'estrazione può essere effettuata in un minimo di 30 minuti e un massimo di 12 ore. Da precisare che negli orari notturni l'allarme viene attivato con un intervallo maggiore : 00:00 , 03:00 e 06:00.
 * Per modificare i tempi di estrazione dei dati bisogna modificare opportunamente il metodo **reactive()** della classe BackgroundService
 
