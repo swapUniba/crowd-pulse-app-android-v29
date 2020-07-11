@@ -59,5 +59,5 @@ Alcuni comandi utili da eseguire sul terminale sono i seguenti:
 * Per verificare l'effettiva esistenza del lavoro di invio al server o del lavoro per il controllo giornaliero aprire il terminale ed eseguire questa riga di codice: ```adb shell dumpsys jobscheduler com.swapuniba.crowdpulse```.
 
 
-##Bug
+## Bug
 E' possibile che ci sia un bug nell'applicazione riguardo agli intervalli. Può accadere che i tempi sul sito vengano settati a dei valori minori di 30 minuti per le attività e il GPS, per questo è necessario controllare sul sito queste situazioni.
