@@ -60,4 +60,4 @@ Alcuni comandi utili da eseguire sul terminale sono i seguenti:
 
 
 ## Bug
-E' possibile che ci sia un bug nell'applicazione riguardo agli intervalli. Può accadere che i tempi sul sito vengano settati a dei valori minori di 30 minuti per le attività e il GPS, per questo è necessario controllare sul sito queste situazioni.
+E' possibile che ci sia un bug nell'applicazione riguardo gli intervalli. Può accadere che i tempi sul sito vengano settati a dei valori minori di 30 minuti per le attività e il GPS (non accettabili dall'applicaione), per questo è necessario controllare sul sito queste situazioni.
