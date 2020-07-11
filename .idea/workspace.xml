@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0bf768a-feb4-4eb9-a66b-12bb327383ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DebugActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_debug2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/swapuniba/crowdpulse/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/swapuniba/crowdpulse/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/AbstractData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/AbstractData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/ActivityData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/ActivityData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/AppInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/AppInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/DeviceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/DeviceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/GPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/GPS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/NetStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/NetStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/SMS.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/SMS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/comunication/SocketApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/comunication/SocketApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/comunication/TransfertData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/comunication/TransfertData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/ControlPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/ControlPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/SettingFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/SettingFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/database/DbManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/database/DbManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/delete/AdapterSettingItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/delete/AppUsage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/delete/ControlPanel3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/delete/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/delete/NotificationListenerExampleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/delete/OldControlPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/delete/SettingItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AccountHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AccountHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ActivityHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ActivityHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AppInfoHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AppInfoHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/CalendarHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/CalendarHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ContactHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ContactHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/DeviceInfoHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/DeviceInfoHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/DisplayHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/DisplayHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/GpsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/GpsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/NetStatsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/NetStatsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Autostart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/BackgroundService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/BackgroundService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/SetIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/SetIP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/utility/NotificationUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/utility/NotificationUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/button_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/intro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/intro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/set_ip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/set_ip.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Copia_Test_PrimaAccensione_of_Nexus_5_API_24" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="crowd-pulse-app-android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="crowd-pulse-app-android" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TelephonyManager</find>
+      <find>Constants.works_uuid</find>
+      <find>Constants.work_reactive_send_uuid</find>
+      <find>job_reactive_send_uuid</find>
+      <find>saveWorkSend</find>
+      <find>tag_m_last</find>
+      <find>tag_m_last_execute</find>
+      <find>tag_m_last_send</find>
+      <find>tag_m_num_execute</find>
+      <find>tag_m_bs_data</find>
+      <find>work_status</find>
+      <find>alarm_reactive_bs</find>
+      <find>alarm_reactive_b</find>
+      <find>work_reactive_send</find>
+      <find>work</find>
+      <find>work_reactive_send_uuid</find>
+      <find>alarm</find>
+      <find>work_delay_check_uuid</find>
+      <find>work_reactive_delaycheck</find>
+      <find>tag_send_data_work</find>
+      <find>works_uuid</find>
+      <find>Constants.REQUEST_RESTART</find>
+      <find>in seguito</find>
+      <find>first_insta</find>
+      <find>so</find>
+      <find>socket.emit</find>
+      <find>setSetting</find>
+      <find>G</find>
+      <find>telegram</find>
+      <find>TAG-M</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\java\com\swapuniba\crowdpulse\business_object</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/button_bg2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/blue_button_2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/set_ip.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/main_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_explanation_permissions.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/NetStats.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Account.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/AbstractData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/ActivityData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/DeviceInfo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Display.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Event.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/GPS.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/SMS.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/comunication/SocketApplication.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/comunication/TransfertData.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/Constants.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/ControlPanel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/SettingFile.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/AfterSendInfo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/AlarmInfo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/BeforeSendInfo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DailyCheckInfo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DatoAfterSend.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DatoAlarm.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DatoBeforeSend.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DatoDailyCheck.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DebugActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DebugActivity2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AccountHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ActivityHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AppInfoHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/CalendarHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/DisplayHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ActivityHandler_v28.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/GpsHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/GpsReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/NetStatsHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/BackgroundService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/ExplanationPermissions.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Intro.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Login.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Main.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/SetIP.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/reactive/DailyCheck.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/SendDataWorker.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/reactive/HandlerReactive.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/reactive/RestartApp.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/utility/Utility.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="352" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crowd-pulse-app-android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crowd-pulse-app-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="crowd-pulse-app-android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crowd-pulse-app-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="crowd-pulse-app-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="crowd-pulse-app-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="crowd-pulse-app-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="crowdpulse" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crowd-pulse-app-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.swapuniba.crowdpulse" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="89U4C18A09002287" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-28T18:36:56.650Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ScreenShot" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.swapuniba.crowdpulse.main" />
+      <recent name="com.swapuniba.crowdpulse.debug" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.swapuniba.crowdpulse.reactive" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="crowd-pulse-app-android:app [androidDependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="androidDependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.crowd-pulse-app-android:app [androidDependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0bf768a-feb4-4eb9-a66b-12bb327383ec" name="Default Changelist" comment="" />
+      <created>1588594117645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588594117645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5009862" visible="true" weight="0.27987897" />
+      <window_info id="Structure" order="1" sideWeight="0.4990138" side_tool="true" weight="0.39717427" />
+      <window_info id="Captures" order="2" sideWeight="0.50980395" side_tool="true" weight="0.22986823" />
+      <window_info id="Favorites" order="3" sideWeight="0.5030675" side_tool="true" weight="0.21522693" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" weight="0.32980332" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Android Profiler" order="9" show_stripe_button="false" sideWeight="0.49840087" weight="0.95083207" />
+      <window_info anchor="bottom" x="186" y="31" width="956" height="735" id="Logcat" order="0" sideWeight="0.60287446" type="WINDOWED" weight="0.6242038" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.60287446" weight="0.12738854" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49924356" weight="0.32961783" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.69515884" weight="0.0477707" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="745" id="Terminal" order="4" sideWeight="0.81467474" type="WINDOWED" weight="0.93630576" />
+      <window_info anchor="bottom" x="1816" y="255" width="1018" height="606" id="Event Log" order="5" sideWeight="0.21482602" side_tool="true" weight="0.0477707" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969743" weight="0.32961783" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.5885023" weight="0.0477707" />
+      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.78517395" visible="true" weight="0.087579615" />
+      <window_info anchor="right" id="Device File Explorer" order="0" sideWeight="0.5047771" side_tool="true" weight="0.21807465" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" sideWeight="0.49522293" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" sideWeight="0.49068323" weight="0.44729137" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80987203" visible="true" weight="0.25189108" />
+      <window_info id="Structure" order="1" sideWeight="0.19012797" side_tool="true" weight="0.20877458" />
+      <window_info id="Captures" order="2" sideWeight="0.50980395" side_tool="true" weight="0.22986823" />
+      <window_info id="Favorites" order="3" sideWeight="0.5030675" side_tool="true" weight="0.21522693" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Android Profiler" order="9" show_stripe_button="false" sideWeight="0.49840087" weight="0.95083207" />
+      <window_info anchor="bottom" x="906" y="93" width="966" height="517" id="Logcat" maximized="true" order="0" sideWeight="0.60287446" type="WINDOWED" weight="0.6242038" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.60287446" weight="0.85987264" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49924356" weight="0.32961783" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.69515884" weight="0.13694267" />
+      <window_info anchor="bottom" x="632" y="367" width="136" height="39" id="Terminal" maximized="true" order="4" sideWeight="0.81467474" type="WINDOWED" weight="0.93630576" />
+      <window_info anchor="bottom" x="1816" y="255" width="1018" height="606" id="Event Log" order="5" sideWeight="0.21331316" side_tool="true" weight="0.12898089" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969743" weight="0.32961783" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.5885023" weight="0.7452229" />
+      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.78668684" visible="true" weight="0.09394904" />
+      <window_info anchor="right" id="Device File Explorer" order="0" sideWeight="0.50308645" side_tool="true" visible="true" weight="0.037821483" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" sideWeight="0.49691358" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" sideWeight="0.49068323" weight="0.44729137" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AccountHandler.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="data_mills" />
+        <watch expression="s_last_executes" />
+        <watch expression="simpleDateFormat" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/ActivityData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="method#ActivityData#1;class#ActivityData#0" />
+            <element signature="method#toJSON#0;class#ActivityData#0" />
+            <element signature="e#1402#2233#0" />
+            <element signature="e#2258#2302#0" />
+            <element signature="method#fromJSON#0;class#ActivityData#0" />
+            <element signature="e#2413#3141#0" />
+            <element signature="e#3166#3210#0" />
+            <element signature="docComment;method#print#0;class#ActivityData#0" />
+            <element signature="method#print#0;class#ActivityData#0" />
+            <element signature="method#toString#0;class#ActivityData#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/DeviceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Display.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/GPS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/NetStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/SMS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="docComment;class#SMS#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/business_object/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding>
+            <element signature="method#Account#1;class#Account#0" />
+            <element signature="method#toJSON#0;class#Account#0" />
+            <element signature="method#fromJSON#0;class#Account#0" />
+            <element signature="docComment;method#print#0;class#Account#0" />
+            <element signature="method#print#0;class#Account#0" />
+            <element signature="method#toString#0;class#Account#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/comunication/TransfertData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="228" column="7" lean-forward="true" selection-start-line="228" selection-start-column="7" selection-end-line="228" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;method#TransfertData#0;class#TransfertData#0" />
+            <element signature="method#TransfertData#0;class#TransfertData#0" />
+            <element signature="method#addList#0;class#TransfertData#0" />
+            <element signature="method#add#0;class#TransfertData#0" />
+            <element signature="docComment;method#setSent#0;class#TransfertData#0" />
+            <element signature="method#setSent#0;class#TransfertData#0" />
+            <element signature="e#4564#7522#0" />
+            <element signature="method#isShare#0;class#TransfertData#0" />
+            <element signature="docComment;method#setData#0;class#TransfertData#0" />
+            <element signature="method#setData#0;class#TransfertData#0" />
+            <element signature="docComment;method#send#0;class#TransfertData#0" />
+            <element signature="method#send#0;class#TransfertData#0" />
+            <element signature="method#sizeObject#0;class#TransfertData#0" />
+            <element signature="docComment;method#displayNotificationWorker#0;class#TransfertData#0" />
+            <element signature="method#displayNotificationWorker#0;class#TransfertData#0" />
+            <element signature="docComment;method#actualBucketApp#0;class#TransfertData#0" />
+            <element signature="method#actualBucketApp#0;class#TransfertData#0" />
+            <element signature="method#getStringBucket#0;class#TransfertData#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/comunication/SocketApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/database/DbManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="1154" column="16" selection-start-line="1154" selection-start-column="16" selection-end-line="1154" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/ControlPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="217" column="21" selection-start-line="217" selection-start-column="21" selection-end-line="217" selection-end-column="21" />
+          <folding>
+            <element signature="docComment;method#onProgressChanged#0;class#6852:8868" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/SettingFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="86" column="50" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
+          <folding>
+            <element signature="method#setSetting#0;class#SettingFile#0" />
+            <element signature="method#inizialize#0;class#SettingFile#0" />
+            <element signature="method#getJSON#0;class#SettingFile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="12" column="71" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/AfterSendInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/AlarmInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="66" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/BeforeSendInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DatoDailyCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-717">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="docComment;class#DatoDailyCheck#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DatoAlarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="docComment;class#DatoAlarm#0" />
+            <element signature="e#2461#2462#0" expanded="true" />
+            <element signature="e#2510#2511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DatoAfterSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="method#insertData#0;class#DatoAfterSend#0" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="method#actualBucketApp#0;class#DatoAfterSend#0" />
+            <element signature="method#getStringBucket#0;class#DatoAfterSend#0" />
+            <element signature="method#toString#0;class#DatoAfterSend#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DailyCheckInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DatoBeforeSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DebugActivity2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="38" column="71" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
+          <folding>
+            <element signature="method#onCreate#0;class#DebugActivity2#0" />
+            <element signature="method#clickLogDB#0;class#DebugActivity2#0" />
+            <element signature="method#clickSetTimeToZero#0;class#DebugActivity2#0" />
+            <element signature="method#clickResetPrimoAccesso#0;class#DebugActivity2#0" />
+            <element signature="method#clickFalsificaLavoro#0;class#DebugActivity2#0" />
+            <element signature="method#clickFalsificaAllarme#0;class#DebugActivity2#0" />
+            <element signature="method#clickExplanationPermisisons#0;class#DebugActivity2#0" />
+            <element signature="method#clickChecDailyNow#0;class#DebugActivity2#0" />
+            <element signature="method#clickAvviaTra5Minuti#0;class#DebugActivity2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/debug/DebugActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <element signature="method#cancelAllDetailFromPreference#0;class#DebugActivity#0" />
+            <element signature="method#showAlarmDetailProcess#0;class#DebugActivity#0" />
+            <element signature="method#showWorkDetailWorks#0;class#DebugActivity#0" />
+            <element signature="method#showDetailBeforeSend#0;class#DebugActivity#0" />
+            <element signature="method#showDetailAfterSend#0;class#DebugActivity#0" />
+            <element signature="method#showDetailDailyCheck#0;class#DebugActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ActivityHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <element signature="method#handleDetectedActivities#0;class#ActivityHandler#0" />
+            <element signature="e#2512#4930#1" />
+            <element signature="e#2564#4920#0" />
+            <element signature="e#2616#2864#1" />
+            <element signature="e#2915#3162#1" />
+            <element signature="e#3210#3452#1" />
+            <element signature="e#3500#3743#1" />
+            <element signature="e#3789#4028#1" />
+            <element signature="e#4104#4347#1" />
+            <element signature="e#4395#4638#1" />
+            <element signature="e#4664#4906#1" />
+            <element signature="docComment;method#checkTimeBetweenRequest#0;class#ActivityHandler#0" />
+            <element signature="method#checkTimeBetweenRequest#0;class#ActivityHandler#0" />
+            <element signature="docComment;method#setNetxTime#0;class#ActivityHandler#0" />
+            <element signature="method#setNetxTime#0;class#ActivityHandler#0" />
+            <element signature="method#saveActivity#0;class#ActivityHandler#0" />
+            <element signature="e#6251#6308#1" />
+            <element signature="e#6322#6381#1" />
+            <element signature="method#getNotSendActivity#0;class#ActivityHandler#0" />
+            <element signature="method#enqueueWork#0;class#ActivityHandler#0" />
+            <element signature="method#setActivityTransitionList#0;class#ActivityHandler#0" />
+            <element signature="method#onHandleWork#0;class#ActivityHandler#0" />
+            <element signature="e#9696#9913#1" />
+            <element signature="e#9917#10003#1" />
+            <element signature="e#10874#10918#0" />
+            <element signature="e#10950#10994#0" />
+            <element signature="method#toTransitionType#0;class#ActivityHandler#0" />
+            <element signature="e#11123#11366#0" />
+            <element signature="method#toActivityString#0;class#ActivityHandler#0" />
+            <element signature="e#11453#11967#0" />
+            <element signature="class#ReceiverActivity#0;class#ActivityHandler#0" />
+            <element signature="method#onReceive#0;class#ReceiverActivity#0;class#ActivityHandler#0" />
+            <element signature="e#12426#12956#1" />
+            <element signature="e#12582#12941#1" />
+            <element signature="e#12646#12922#1" />
+            <element signature="method#onDestroy#0;class#ActivityHandler#0" />
+            <element signature="e#13031#13093#0" />
+            <element signature="e#13112#13267#0" />
+            <element signature="method#deleteCache#0;class#ActivityHandler#0" />
+            <element signature="e#13609#13786#1" />
+            <element signature="e#13674#13776#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AccountHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="method#readAccounts#0;class#AccountHandler#0" />
+            <element signature="e#1100#1631#1" />
+            <element signature="e#1114#1132#0" />
+            <element signature="e#1719#2135#1" />
+            <element signature="e#1771#2125#1" />
+            <element signature="method#accountsJSONArray#0;class#AccountHandler#0" />
+            <element signature="e#2344#2394#1" />
+            <element signature="docComment;method#checkTimeBetweenRequest#0;class#AccountHandler#0" />
+            <element signature="method#checkTimeBetweenRequest#0;class#AccountHandler#0" />
+            <element signature="docComment;method#setNetxTime#0;class#AccountHandler#0" />
+            <element signature="method#setNetxTime#0;class#AccountHandler#0" />
+            <element signature="method#send#0;class#AccountHandler#0" />
+            <element signature="e#3524#3726#0" />
+            <element signature="e#3751#3795#0" />
+            <element signature="method#saveAccount#0;class#AccountHandler#0" />
+            <element signature="e#4805#4860#1" />
+            <element signature="e#4874#4924#1" />
+            <element signature="method#saveAccountArray#0;class#AccountHandler#0" />
+            <element signature="e#5131#5185#1" />
+            <element signature="method#getNotSendAccount#0;class#AccountHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AppInfoHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/CalendarHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ContactHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/DeviceInfoHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/AtivityReceiver_v28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/GpsHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="181" column="4" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;field#FASTEST_UPDATE_INTERVAL#0;class#GpsHandler#0" />
+            <element signature="docComment;field#MAX_WAIT_TIME#0;class#GpsHandler#0" />
+            <element signature="docComment;field#mLocationRequest#0;class#GpsHandler#0" />
+            <element signature="docComment;field#mFusedLocationClient#0;class#GpsHandler#0" />
+            <element signature="method#readGPS#0;class#GpsHandler#0" />
+            <element signature="e#2365#3454#1" />
+            <element signature="e#2993#3105#1" />
+            <element signature="e#3151#3439#1" />
+            <element signature="e#3290#3421#1" />
+            <element signature="e#3467#3564#1" />
+            <element signature="docComment;method#checkTimeBetweenRequest#0;class#GpsHandler#0" />
+            <element signature="method#checkTimeBetweenRequest#0;class#GpsHandler#0" />
+            <element signature="e#3873#3978#0" />
+            <element signature="e#4079#4384#0" />
+            <element signature="docComment;method#setNetxTime#0;class#GpsHandler#0" />
+            <element signature="method#setNetxTime#0;class#GpsHandler#0" />
+            <element signature="method#createRequest#0;class#GpsHandler#0" />
+            <element signature="method#getPendingIntent#0;class#GpsHandler#0" />
+            <element signature="e#5399#5467#0" />
+            <element signature="e#6442#6516#0" />
+            <element signature="e#7053#7139#0" />
+            <element signature="e#7373#7457#0" />
+            <element signature="method#saveGPS#0;class#GpsHandler#0" />
+            <element signature="e#7776#7823#1" />
+            <element signature="e#7837#7886#1" />
+            <element signature="method#getNotSendGPS#0;class#GpsHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/GpsReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="method#onReceive#0;class#GpsReceiver#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/NetStatsHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="method#readNetworkStats#0;class#NetStatsHandler#0" />
+            <element signature="method#checkTimeBetweenRequest#0;class#NetStatsHandler#0" />
+            <element signature="method#setNetxTime#0;class#NetStatsHandler#0" />
+            <element signature="method#saveNetStats#0;class#NetStatsHandler#0" />
+            <element signature="method#saveNetStatsArray#0;class#NetStatsHandler#0" />
+            <element signature="method#getNotSendNetStats#0;class#NetStatsHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/ActivityHandler_v28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#execute#0;class#ActivityHandler_v28#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/handlers/DisplayHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="method#onReceive#0;class#DisplayHandler#0" />
+            <element signature="method#saveDisplay#0;class#DisplayHandler#0" />
+            <element signature="method#saveDispalyArray#0;class#DisplayHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/ExplanationPermissions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="85" selection-start-line="19" selection-start-column="85" selection-end-line="19" selection-end-column="85" />
+          <folding>
+            <element signature="method#onCreate#0;class#ExplanationPermissions#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Intro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="204" column="36" selection-start-line="204" selection-start-column="36" selection-end-line="204" selection-end-column="36" />
+          <folding>
+            <element signature="method#onCreate#0;class#Intro#0" />
+            <element signature="method#onResume#0;class#Intro#0" />
+            <element signature="method#isAccessGranted#0;class#Intro#0" />
+            <element signature="method#openLoginActivity#0;class#Intro#0" />
+            <element signature="e#4391#4635#0" expanded="true" />
+            <element signature="e#4634#4635#0" expanded="true" />
+            <element signature="method#onActivityResult#0;class#Intro#0" />
+            <element signature="method#onRequestPermissionsResult#0;class#Intro#0" />
+            <element signature="method#requestGPSEnable#0;class#Intro#0" />
+            <element signature="method#gpsEnabled#0;class#Intro#0" />
+            <element signature="method#reload#0;class#Intro#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/BackgroundService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="249" column="5" selection-start-line="249" selection-start-column="5" selection-end-line="249" selection-end-column="5" />
+          <folding>
+            <element signature="method#onReceive#0;class#BackgroundService#0" />
+            <element signature="method#cancel#0;class#BackgroundService#0" />
+            <element signature="method#extract#0;class#BackgroundService#0" />
+            <element signature="method#reactivate#0;class#BackgroundService#0" />
+            <element signature="method#actualBucketApp#0;class#BackgroundService#0" />
+            <element signature="method#getStringBucket#0;class#BackgroundService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="method#startSendData#0;class#Login#0" />
+            <element signature="method#startHandlerReactive#0;class#Login#0" />
+            <element signature="method#startBackgroundService#0;class#Login#0" />
+            <element signature="method#onBackPressed#0;class#Login#0" />
+            <element signature="e#12661#12881#1" />
+            <element signature="e#12895#13290#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/SetIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="90" selection-start-line="15" selection-start-column="90" selection-end-line="15" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="206" column="43" selection-start-line="206" selection-start-column="43" selection-end-line="206" selection-end-column="43" />
+          <folding>
+            <element signature="method#onResume#0;class#Main#0" />
+            <element signature="method#onBackPressed#0;class#Main#0" />
+            <element signature="docComment;method#showSendPopup#0;class#Main#0" />
+            <element signature="method#showSendPopup#0;class#Main#0" />
+            <element signature="docComment;method#checkDailyCheck#0;class#Main#0" />
+            <element signature="method#checkDailyCheck#0;class#Main#0" />
+            <element signature="docComment;method#avviaSubitoInvioAlServer#0;class#Main#0" />
+            <element signature="method#avviaSubitoInvioAlServer#0;class#Main#0" />
+            <element signature="method#checkDailyNow#0;class#Main#0" />
+            <element signature="method#nascondiImpostazioniDebug#0;class#Main#0" />
+            <element signature="docComment;method#goDebug#0;class#Main#0" />
+            <element signature="method#goDebug#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/config/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/main/SendDataWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="317" column="96" selection-start-line="317" selection-start-column="96" selection-end-line="317" selection-end-column="96" />
+          <folding>
+            <element signature="method#SendDataWorker#0;class#SendDataWorker#0" />
+            <element signature="method#isNetworkAvaible#0;class#SendDataWorker#0" />
+            <element signature="method#saveTime#0;class#SendDataWorker#0" />
+            <element signature="method#nextExecute#0;class#SendDataWorker#0" />
+            <element signature="docComment;method#nextExecuteDelay#0;class#SendDataWorker#0" />
+            <element signature="method#nextExecuteDelay#0;class#SendDataWorker#0" />
+            <element signature="docComment;method#nextExecuteDelay#1;class#SendDataWorker#0" />
+            <element signature="method#nextExecuteDelay#1;class#SendDataWorker#0" />
+            <element signature="method#createAndEnqueue#0;class#SendDataWorker#0" />
+            <element signature="docComment;method#createAndEnqueue#1;class#SendDataWorker#0" />
+            <element signature="method#createAndEnqueue#1;class#SendDataWorker#0" />
+            <element signature="docComment;method#createAndExecute#0;class#SendDataWorker#0" />
+            <element signature="method#createAndExecute#0;class#SendDataWorker#0" />
+            <element signature="docComment;method#waitExceeded#0;class#SendDataWorker#0" />
+            <element signature="method#waitExceeded#0;class#SendDataWorker#0" />
+            <element signature="docComment;method#waitWhileConnected#0;class#SendDataWorker#0" />
+            <element signature="method#waitWhileConnected#0;class#SendDataWorker#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/reactive/DailyCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="74" column="59" selection-start-line="74" selection-start-column="59" selection-end-line="74" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#checkBackgroundService#0;class#DailyCheck#0" />
+            <element signature="method#checkBackgroundService#0;class#DailyCheck#0" />
+            <element signature="method#checkSendDataWorker#0;class#DailyCheck#0" />
+            <element signature="method#saveTime#0;class#DailyCheck#0" />
+            <element signature="method#nextExecuteDelay#0;class#DailyCheck#0" />
+            <element signature="method#nextTime#0;class#DailyCheck#0" />
+            <element signature="docComment;method#createAndEnqueue#0;class#DailyCheck#0" />
+            <element signature="method#createAndEnqueue#0;class#DailyCheck#0" />
+            <element signature="docComment;method#problem#0;class#DailyCheck#0" />
+            <element signature="method#problem#0;class#DailyCheck#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/reactive/HandlerReactive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="261" column="4" selection-start-line="261" selection-start-column="4" selection-end-line="261" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#HandlerReactive#0" />
+            <element signature="docComment;method#timeToSleep#0;class#HandlerReactive#0" />
+            <element signature="method#timeToSleep#0;class#HandlerReactive#0" />
+            <element signature="e#878#935#1" />
+            <element signature="e#994#1052#1" />
+            <element signature="e#1065#1120#1" />
+            <element signature="docComment;method#saveWorkSend#0;class#HandlerReactive#0" />
+            <element signature="method#saveWorkSend#0;class#HandlerReactive#0" />
+            <element signature="docComment;method#saveWorkDelayCheck#0;class#HandlerReactive#0" />
+            <element signature="method#saveWorkDelayCheck#0;class#HandlerReactive#0" />
+            <element signature="docComment;method#saveAlarmBS#0;class#HandlerReactive#0" />
+            <element signature="method#saveAlarmBS#0;class#HandlerReactive#0" />
+            <element signature="docComment;method#saveWorkSend#1;class#HandlerReactive#0" />
+            <element signature="method#saveWorkSend#1;class#HandlerReactive#0" />
+            <element signature="docComment;method#saveWorkDelayCheck#1;class#HandlerReactive#0" />
+            <element signature="method#saveWorkDelayCheck#1;class#HandlerReactive#0" />
+            <element signature="docComment;method#falsificaAllarme#0;class#HandlerReactive#0" />
+            <element signature="method#falsificaAllarme#0;class#HandlerReactive#0" />
+            <element signature="docComment;method#falsificaSend#0;class#HandlerReactive#0" />
+            <element signature="method#falsificaSend#0;class#HandlerReactive#0" />
+            <element signature="docComment;method#getAlarmBS#0;class#HandlerReactive#0" />
+            <element signature="method#getAlarmBS#0;class#HandlerReactive#0" />
+            <element signature="e#6223#6405#1" />
+            <element signature="docComment;method#getWorkReactive#0;class#HandlerReactive#0" />
+            <element signature="method#getWorkReactive#0;class#HandlerReactive#0" />
+            <element signature="e#6740#6922#1" />
+            <element signature="docComment;method#getWorkSend#0;class#HandlerReactive#0" />
+            <element signature="method#getWorkSend#0;class#HandlerReactive#0" />
+            <element signature="e#7247#7429#1" />
+            <element signature="method#get_c_00_00#0;class#HandlerReactive#0" />
+            <element signature="docComment;method#get_c_03_00#0;class#HandlerReactive#0" />
+            <element signature="method#get_c_03_00#0;class#HandlerReactive#0" />
+            <element signature="docComment;method#get_c_06_00#0;class#HandlerReactive#0" />
+            <element signature="method#get_c_06_00#0;class#HandlerReactive#0" />
+            <element signature="method#c_00_00#0;class#HandlerReactive#0" />
+            <element signature="method#c_03_00#0;class#HandlerReactive#0" />
+            <element signature="method#c_06_00#0;class#HandlerReactive#0" />
+            <element signature="docComment;method#choiseNextTime#0;class#HandlerReactive#0" />
+            <element signature="method#choiseNextTime#0;class#HandlerReactive#0" />
+            <element signature="e#10093#10160#0" />
+            <element signature="e#10260#10967#1" />
+            <element signature="e#10521#10957#1" />
+            <element signature="e#10870#10943#1" />
+            <element signature="e#11057#11116#1" />
+            <element signature="e#11120#11200#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/reactive/RestartApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="33" column="87" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/utility/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="172" column="4" selection-start-line="172" selection-start-column="4" selection-end-line="172" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;method#getCurrentHHMills#0;class#Utility#0" />
+            <element signature="method#getCurrentHHMills#0;class#Utility#0" />
+            <element signature="e#898#1001#0" />
+            <element signature="e#1025#1113#0" />
+            <element signature="method#getDataFromMillis#0;class#Utility#0" />
+            <element signature="method#printLog#0;class#Utility#0" />
+            <element signature="e#1502#1560#1" />
+            <element signature="method#printLog#1;class#Utility#0" />
+            <element signature="e#1659#1703#1" />
+            <element signature="docComment;method#currentMidnightTimestamp#0;class#Utility#0" />
+            <element signature="method#currentMidnightTimestamp#0;class#Utility#0" />
+            <element signature="method#yesterdayMidnightTimestamp#0;class#Utility#0" />
+            <element signature="method#threeDaysAgoTimestamp#0;class#Utility#0" />
+            <element signature="method#splitTime#0;class#Utility#0" />
+            <element signature="e#3541#3637#1" />
+            <element signature="method#serialize#0;class#Utility#0" />
+            <element signature="method#derialize#0;class#Utility#0" />
+            <element signature="method#randomString#0;class#Utility#0" />
+            <element signature="e#4275#4370#1" />
+            <element signature="method#millisecondInUinit#0;class#Utility#0" />
+            <element signature="e#4486#4757#0" />
+            <element signature="docComment;method#vGreaterThan28#0;class#Utility#0" />
+            <element signature="method#vGreaterThan28#0;class#Utility#0" />
+            <element signature="method#getTime#0;class#Utility#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/swapuniba/crowdpulse/reactive/DataObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="method#toReactive#0;class#DataObject#0" />
+            <element signature="method#logicReactive#0;class#DataObject#0" />
+            <element signature="method#getDataFromMills#0;class#DataObject#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
