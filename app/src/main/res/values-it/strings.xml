@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Myrror</string>
+
+    <!-- GENERAL MESSAGE -->
+    <string name="press_again_exit"> Per uscire premi un altra volta!</string>
+    <string name="connection_error">Errore di connessione</string>
+    <string name="no_connection">Nessuna connesione</string>
+    <string name="ok">OK</string>
+
+
+    <!-- INTRO ACTIVITY -->
+    <string name="developed_by">Sviluppato da:</string>
+    <string name="developer_name">Swap Team</string>
+    <string name="access_setting_false">Please set on ACCESS SETTING PERMISSION for the app</string>
+    <string name="permission_not_acccept">Perfavore accetta tutti i permessi</string>
+
+    <!-- SETIP ACTIVITY -->
+    <string name="server_ip">Server IP</string>
+    <string name="hint_server_ip">Inserisci il server IP</string>
+    <string name="button_server_ip">Setta questo IP</string>
+
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="username">Email</string>
+    <string name="username_hint">Inserisci la tua email</string>
+
+    <string name="password">Password</string>
+    <string name="password_hint">Inserisci la tua password</string>
+
+    <string name="phonenumber">Numero di telefono</string>
+    <string name="phonenumber_hint">Inserisci il tuo numero di telefono</string>
+
+    <string name="login_button">Login</string>
+
+
+    <!-- MAIN ACTIVITY -->
+    <string name="control_panel">Pannello di controllo</string>
+    <string name="logout_panel">Logout</string>
+    <string name="share">Condividi</string>
+    <string name="text_switch_gps">GPS</string>
+    <string name="text_switch_contacts">Contatti</string>
+    <string name="text_switch_accounts">Account</string>
+    <string name="text_switch_calendar">Calendar</string>
+    <string name="text_switch_sms">SMS</string>
+    <string name="text_switch_app">Statistiche delle altre App</string>
+    <string name="text_switch_netstats">Statistiche di rete</string>
+    <string name="text_switch_display">Statistiche Display</string>
+    <string name="text_switch_activity">Attività</string>
+
+    <string name="text_help_gps">I dati GPS sono la posizione dell\'utente in termini di latitudine e longitudine.</string>
+    <string name="text_help_contacts">Informazioni sui contatti dell\'utente memorizzate nello smartphone (con numeri di telefono).</string>
+    <string name="text_help_accounts">I dati degli account sono informazioni sugli account degli utenti (pacchetto dell\'applicazione e nome utente) memorizzati nello smartphone.</string>
+    <string name="text_help_calendar"></string>
+    <string name="text_help_sms"></string>
+    <string name="text_help_app">Informazioni sulle applicazioni installate sul dispositivo.</string>
+    <string name="text_help_netstats">Statistiche sul traffico di rete in termini di byte trasmessi e ricevuti su rete mobile e Wifi. Queste statistiche potrebbero non essere disponibili su tutte le piattaforme.</string>
+    <string name="text_help_display">Spegnimento e accensione dello smartphone</string>
+    <string name="text_help_activity">Attività svolta dall\'utente (es. camminare, correre o salire su un veicolo)</string>
+
+
+    <string name="one_every">Every</string>
+    <string name="times_day"></string>
+    <string name="hour">ore</string>
+    <string name="minute">minuti</string>
+
+    <string name="text_popup_question_send">Ci sono dei dati non ancora salvati ! \n
+        Vuoi salvarli adesso o aspettare che il telefono stia caricando ? </string>
+    <string name="text_btn_wait">Aspetta</string>
+    <string name="text_btn_save">Salva adesso</string>
+
+    <string name="text_introduction">Ciao! \nBenvenuto in Myrror una app per la modellazione utente.</string>
+    <string name="text_explanation_app">La app si occuperà di raccogliere alcuni dei tuoi dati ,  in seguito potrai andare sul sito di Myrror e vederli</string>
+    <string name="text_explanation_permission">Per questo ti chiediamo di accettare i permessi che verranno richiesti \n  In particolare i permessi riguardano i contatti telefonici e l\'accesso alla posizone </string>
+    <string name="text_explanation_permission_v29">Per questo ti chiediamo di accettare i permessi che verranno richiesti \n In particolare i permessi riguardano i contatti telefonici , l\'accesso alla posizone e alle attività</string>
+    <string name="text_explanation_permission_gps">La app rileva la tua posizione , per favore imposta questo permesso su consenti sempre </string>
+    <string name="text_explanation_permission_contacts">La app estrae i tuoi contatti , per favore accetta questo permesso</string>
+    <string name="text_explanation_permission_network">La app rileva la quantità di rete che viene usata ( Kb e Mb ) per questo è necessario accettare il permesso di gestione delle chiamate</string>
+    <string name="text_explanation_permission_acttivity_v29">La app comprende le tue attività , per favore accetta queto permesso</string>
+
+    <string name="text_explanation_conclusion">Più avanti sarà possibile decidere se condividere o meno questi dati e con che frequenza farlo</string>
+    <string name="text_connection_problem">Problemi di connessione</string>
+    <string name ="text_error_login">La mail o la password sono errati</string>
+</resources>

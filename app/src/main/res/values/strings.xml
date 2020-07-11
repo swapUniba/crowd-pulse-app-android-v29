@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Myrror</string>
+
+    <!-- GENERAL MESSAGE -->
+    <string name="press_again_exit"> To exit press back again!</string>
+    <string name="connection_error">Connection error</string>
+    <string name="no_connection">No connection</string>
+    <string name="ok">OK</string>
+
+
+    <!-- INTRO ACTIVITY -->
+    <string name="developed_by">Developed by:</string>
+    <string name="developer_name">Swap Team</string>
+    <string name="access_setting_false">Please set on ACCESS SETTING PERMISSION for the app</string>
+    <string name="permission_not_acccept">Please accept all permissions</string>
+
+    <!-- SETIP ACTIVITY -->
+    <string name="server_ip">Server IP</string>
+    <string name="hint_server_ip">Insert server IP</string>
+    <string name="button_server_ip">Set IP</string>
+
+
+    <!-- LOGIN ACTIVITY -->
+    <string name="username">Email</string>
+    <string name="username_hint">Insert your email</string>
+
+    <string name="password">Password</string>
+    <string name="password_hint">Insert your password</string>
+
+    <string name="phonenumber">Phone Number</string>
+    <string name="phonenumber_hint">Insert your phone number</string>
+
+    <string name="login_button">Login</string>
+
+
+    <!-- MAIN ACTIVITY -->
+    <string name="control_panel">Control panel</string>
+    <string name="logout_panel">Logout</string>
+    <string name="share">Share</string>
+    <string name="text_switch_gps">GPS</string>
+    <string name="text_switch_contacts">Contacts</string>
+    <string name="text_switch_accounts">Account</string>
+    <string name="text_switch_calendar">Calendar</string>
+    <string name="text_switch_sms">SMS</string>
+    <string name="text_switch_app">App stats</string>
+    <string name="text_switch_netstats">Network stats</string>
+    <string name="text_switch_display">Display stats</string>
+    <string name="text_switch_activity">Activity</string>
+
+    <string name="text_help_gps">GPS data is the user position in terms of latitude and logitude.</string>
+    <string name="text_help_contacts">User\'s contacts informations stored in the smartphone (with phone numbers).</string>
+    <string name="text_help_accounts">Accounts data are user\'s accounts informations (application package and user name) stored in the smartphone.</string>
+    <string name="text_help_calendar"></string>
+    <string name="text_help_sms"></string>
+    <string name="text_help_app">Information about the applications installed on the device.</string>
+    <string name="text_help_netstats">Network traffic statistics in terms of bytes transmitted and received over mobile net and Wifi. These statistics may not be available on all platforms.</string>
+    <string name="text_help_display">On/Off display total time.</string>
+    <string name="text_help_activity">Activity done by the user (es. walking, run or go in vehicle)</string>
+
+
+    <string name="one_every">Every</string>
+    <string name="times_day"></string>
+    <string name="hour">hours</string>
+    <string name="minute">minutes</string>
+
+    <string name="text_popup_question_send">There are data not yet saved! \n  Do you want to do it now or wait for the phone to charge?</string>
+
+    <string name="text_btn_wait">Wait</string>
+    <string name="text_btn_save">Save now</string>
+
+    <string name="text_introduction">Hi! \nWelcome to Myrror an app for user modeling.</string>
+    <string name="text_explanation_app">The app will collect some of your data, then you can go to the Myrror website and see them</string>
+    <string name="text_explanation_permission">For this reason we ask you to accept the permits that will be requested. \n
+        n particular, the permits concern telephone contacts and access to the location.</string>
+    <string name="text_explanation_permission_v29">For this reason we ask you to accept the permits that will be requested. \n
+        In particular, the permits concern telephone contacts and access to the location and activities</string>
+    <string name="text_explanation_permission_gps">The app detects the location, please set this permission to always allow </string>
+    <string name="text_explanation_permission_contacts">The app extracts your contacts, please accept this permission</string>
+    <string name="text_explanation_permission_network">The app detects the amount of network that is used (Kb and Mb) so it is necessary to accept the call management permission</string>
+    <string name="text_explanation_permission_acttivity_v29">The app tracks your activities, please accept this permission</string>
+    <string name="text_explanation_conclusion">Later it will be possible to decide whether or not to share this data and how often to do it</string>
+    <string name="text_connection_problem">Connection problems</string>
+    <string name ="text_error_login">La mail o la password sono errati</string>
+
+
+</resources>
