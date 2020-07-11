@@ -4,24 +4,24 @@ per estrarre i dati relativi al GPS , agli Accounts associati allo smartphone , 
 dati statistici di rete , delle app installate sul dispositivo e del display. In seguito i dati vengono inviati al server sotto formato di oggetti Json.
 
 ## Elenco dei package:
-* business_object: contiene le classi rappresentati i dati.
+* **business_object**: contiene le classi rappresentati i dati.
 Ognuna delle classi presenti in questo package verrà mappata all'interno del DB. Ogni dato verrà inviato  al server sotto formato Json , per questo ogni classe in questo package estende AbstractData la quale implementa 3 metodi per la gestione e trasformazione degli oggetti in Json.
 
 * **handlers**: sono presenti le classi di servizio (una per ogni business_object) che a partire dai dati presenti nel dispositivo li convertono nelle classi indicate nel package business_object, così da poterle utilizzare o inviare, in più per ogni singolo dato possono essere chiamate le funzioni di  salvataggio o aggiornamento del dato nel DB interno l’applicazione e le apposite funzioni per verificare se è possibile rilevare il dato o vi è necessità di aspettare.
 
-* comunication: Questo package contiene tutte le classi necessarie per la comunicazione con l’esterno, come l’istanziazione della socket per la comunicazione con il server e la funzione di passaggio dei dati al server.
+* **comunication**: Questo package contiene tutte le classi necessarie per la comunicazione con l’esterno, come l’istanziazione della socket per la comunicazione con il server e la funzione di passaggio dei dati al server.
 
-* config: Questo package contiene le costanti utilizzate da tutte le classi, le SharedPreferences di Andorid relative i dati da memorizzare e quelli da non memorizzare e infine contiene l'activity (Pannello di Controllo) che si occupa di gestire se condividere o meno un dato con il server.
+* **config**: Questo package contiene le costanti utilizzate da tutte le classi, le SharedPreferences di Andorid relative i dati da memorizzare e quelli da non memorizzare e infine contiene l'activity (Pannello di Controllo) che si occupa di gestire se condividere o meno un dato con il server.
 
-* database : contiene tutte le classi utilizzate per lo storage dei dati e degli oggetti all’interno del DB SQLLite di Andorid.
+* **database** : contiene tutte le classi utilizzate per lo storage dei dati e degli oggetti all’interno del DB SQLLite di Andorid.
 
-* main: contiene le activity dell'applicazione (a parte il pannello di controllo presente in config) e le classi che si occupano di estrarre i dati (BackgroundService) e inviarli al server (SendDataWorker).
+* **main**: contiene le activity dell'applicazione (a parte il pannello di controllo presente in config) e le classi che si occupano di estrarre i dati (BackgroundService) e inviarli al server (SendDataWorker).
 
-* reactive: contiene le classi che si occupano della riattivazione dei servizi di estrazione ed invio al server dei dati.
+* **reactive**: contiene le classi che si occupano della riattivazione dei servizi di estrazione ed invio al server dei dati.
 
-* utility: contiene due classi contenenti metodi utilizzati nella maggior parte delle classi per gestire e ottenere le date.
+* **utility**: contiene due classi contenenti metodi utilizzati nella maggior parte delle classi per gestire e ottenere le date.
 
-* debug: contiene le classi per svolgere le attività di debug sul codice.
+* **debug**: contiene le classi per svolgere le attività di debug sul codice.
 
 
 ## Installazione dell'Applicazione
@@ -60,4 +60,5 @@ Alcuni comandi utili da eseguire sul terminale sono i seguenti:
 
 
 ## Bug
-E' possibile che ci sia un bug nell'applicazione riguardo gli intervalli. Può accadere che i tempi sul sito vengano settati a dei valori minori di 30 minuti per le attività e il GPS (non accettabili dall'applicaione), per questo è necessario controllare sul sito queste situazioni.
+E' possibile che ci sia un bug nell'applicazione riguardo gli intervalli. Può accadere che i tempi sul sito vengano settati a dei valori minori di 30 minuti per le attività e il GPS (non accettabili dall'applicaione), per questo è necessario controllare sul sito queste situazioni e quindi modificare 
+i tempi minimi accettabili.
