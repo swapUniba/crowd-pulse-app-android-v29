@@ -7,7 +7,7 @@ dati statistici di rete , delle app installate sul dispositivo e del display. In
 * business_object: contiene le classi rappresentati i dati.
 Ognuna delle classi presenti in questo package verrà mappata all'interno del DB. Ogni dato verrà inviato  al server sotto formato Json , per questo ogni classe in questo package estende AbstractData la quale implementa 3 metodi per la gestione e trasformazione degli oggetti in Json.
 
-* handlers: sono presenti le classi di servizio (una per ogni business_object) che a partire dai dati presenti nel dispositivo li convertono nelle classi indicate nel package business_object, così da poterle utilizzare o inviare, in più per ogni singolo dato possono essere chiamate le funzioni di  salvataggio o aggiornamento del dato nel DB interno l’applicazione e le apposite funzioni per verificare se è possibile rilevare il dato o vi è necessità di aspettare.
+* **handlers**: sono presenti le classi di servizio (una per ogni business_object) che a partire dai dati presenti nel dispositivo li convertono nelle classi indicate nel package business_object, così da poterle utilizzare o inviare, in più per ogni singolo dato possono essere chiamate le funzioni di  salvataggio o aggiornamento del dato nel DB interno l’applicazione e le apposite funzioni per verificare se è possibile rilevare il dato o vi è necessità di aspettare.
 
 * comunication: Questo package contiene tutte le classi necessarie per la comunicazione con l’esterno, come l’istanziazione della socket per la comunicazione con il server e la funzione di passaggio dei dati al server.
 

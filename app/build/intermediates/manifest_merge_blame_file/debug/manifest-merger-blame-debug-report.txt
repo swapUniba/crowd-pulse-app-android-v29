@@ -6,199 +6,199 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml
+8-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml
+9-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:6:5-67
-11-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:6:22-64
+11-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:6:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:7:5-79
-12-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:7:22-76
+12-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:7:22-76
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:8:5-76
-13-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:8:22-73
+13-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:8:5-76
+13-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:8:22-73
 14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-14-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:9:5-81
-14-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:9:22-78
+14-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:9:22-78
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:10:5-79
-15-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:10:22-76
+15-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:10:5-79
+15-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:10:22-76
 16    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
-16-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:11:5-85
-16-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:11:22-82
+16-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:11:5-85
+16-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:11:22-82
 17    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-17-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:12:5-71
-17-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:12:22-68
+17-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:12:5-71
+17-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:12:22-68
 18    <uses-permission android:name="android.permission.READ_CONTACTS" />
-18-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:13:5-72
-18-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:13:22-69
+18-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:13:5-72
+18-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:13:22-69
 19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-19-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:14:5-75
-19-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:14:22-72
+19-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:14:5-75
+19-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:14:22-72
 20    <uses-permission android:name="android.permission.WAKE_LOCK" />
-20-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:15:5-68
-20-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:15:22-65
+20-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:15:5-68
+20-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:15:22-65
 21    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" />
-21-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:16:5-18:47
-21-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:17:9-62
+21-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:16:5-18:47
+21-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:17:9-62
 22    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-22-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:19:5-81
-22-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:19:22-78
+22-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:19:5-81
+22-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:19:22-78
 23    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
-23-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:20:5-94
-23-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:20:22-91
+23-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:20:5-94
+23-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:20:22-91
 24    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
-24-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:21:5-79
-24-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:21:22-76
+24-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:21:5-79
+24-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:21:22-76
 25    <uses-permission android:name="READ_PRIVILEGED_PHONE_STATE" />
-25-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:22:5-66
-25-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:22:22-64
+25-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:22:5-66
+25-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:22:22-64
 26    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 26-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:28:5-77
 26-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:28:22-74
 27
 28    <application
-28-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:24:5-93:19
+28-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:24:5-93:19
 29        android:name="com.swapuniba.crowdpulse.comunication.SocketApplication"
-29-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:25:9-55
+29-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:25:9-55
 30        android:allowBackup="false"
-30-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:26:9-36
+30-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:26:9-36
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.1.0] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
 32        android:debuggable="true"
 33        android:icon="@mipmap/ic_launcher"
-33-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:27:9-43
+33-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:27:9-43
 34        android:label="@string/app_name"
-34-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:28:9-41
+34-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:28:9-41
 35        android:supportsRtl="true"
-35-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:29:9-35
+35-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:29:9-35
 36        android:theme="@style/AppTheme"
-36-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:30:9-40
+36-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:30:9-40
 37        android:usesCleartextTraffic="true" >
-37-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:31:9-44
+37-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:31:9-44
 38        <activity
-38-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:32:9-40:20
+38-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:32:9-40:20
 39            android:name="com.swapuniba.crowdpulse.main.ExplanationPermissions"
-39-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:32:19-62
+39-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:32:19-62
 40            android:configChanges="keyboardHidden|orientation|screenSize"
-40-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:33:13-74
+40-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:33:13-74
 41            android:label="@string/app_name" >
-41-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:34:13-45
+41-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:34:13-45
 42            <intent-filter>
-42-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:35:13-39:29
+42-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:35:13-39:29
 43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:36:17-69
-43-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:36:25-66
+43-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:36:17-69
+43-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:36:25-66
 44
 45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:38:17-77
-45-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:38:27-74
+45-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:38:17-77
+45-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:38:27-74
 46            </intent-filter>
 47        </activity>
 48        <activity android:name="com.swapuniba.crowdpulse.debug.DebugActivity2" />
-48-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:41:9-58
-48-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:41:19-55
+48-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:41:9-58
+48-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:41:19-55
 49        <activity android:name="com.swapuniba.crowdpulse.debug.DebugActivity" />
-49-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:42:9-57
-49-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:42:19-54
+49-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:42:9-57
+49-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:42:19-54
 50        <activity
-50-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:43:9-47:20
+50-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:43:9-47:20
 51            android:name="com.swapuniba.crowdpulse.main.Intro"
-51-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:44:13-39
+51-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:44:13-39
 52            android:configChanges="keyboardHidden|orientation|screenSize"
-52-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:45:13-74
+52-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:45:13-74
 53            android:label="@string/app_name" >
-53-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:46:13-45
+53-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:46:13-45
 54        </activity>
 55        <activity
-55-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:48:9-51:48
+55-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:48:9-51:48
 56            android:name="com.swapuniba.crowdpulse.main.SetIP"
-56-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:49:13-39
+56-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:49:13-39
 57            android:configChanges="keyboardHidden|orientation|screenSize"
-57-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:50:13-74
+57-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:50:13-74
 58            android:label="@string/app_name" />
-58-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:51:13-45
+58-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:51:13-45
 59        <activity
-59-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:52:9-55:48
+59-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:52:9-55:48
 60            android:name="com.swapuniba.crowdpulse.main.Login"
-60-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:53:13-39
+60-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:53:13-39
 61            android:configChanges="keyboardHidden|orientation|screenSize"
-61-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:54:13-74
+61-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:54:13-74
 62            android:label="@string/app_name" />
-62-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:55:13-45
+62-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:55:13-45
 63        <activity
-63-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:56:9-59:48
+63-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:56:9-59:48
 64            android:name="com.swapuniba.crowdpulse.main.Main"
-64-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:57:13-38
+64-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:57:13-38
 65            android:configChanges="keyboardHidden|orientation|screenSize"
-65-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:58:13-74
+65-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:58:13-74
 66            android:label="@string/app_name" />
-66-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:59:13-45
+66-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:59:13-45
 67        <activity
-67-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:60:9-64:52
+67-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:60:9-64:52
 68            android:name="com.swapuniba.crowdpulse.config.ControlPanel"
-68-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:61:13-48
+68-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:61:13-48
 69            android:configChanges="orientation|keyboardHidden"
-69-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:62:13-63
+69-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:62:13-63
 70            android:label="@string/app_name"
-70-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:63:13-45
+70-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:63:13-45
 71            android:screenOrientation="portrait" />
-71-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:64:13-49
+71-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:64:13-49
 72
 73        <receiver android:name="com.swapuniba.crowdpulse.main.BackgroundService" />
-73-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:66:9-60
-73-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:66:19-57
+73-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:66:9-60
+73-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:66:19-57
 74        <receiver android:name="com.swapuniba.crowdpulse.reactive.RestartApp" >
-74-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:67:9-71:20
-74-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:67:19-54
+74-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:67:9-71:20
+74-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:67:19-54
 75            <intent-filter>
-75-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:68:13-70:29
+75-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:68:13-70:29
 76                <action android:name="android.intent.action.BOOT_COMPLETED" />
-76-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:69:17-79
-76-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:69:25-76
+76-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:17-79
+76-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:25-76
 77            </intent-filter>
 78        </receiver>
 79        <receiver
-79-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:72:9-78:20
+79-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:72:9-78:20
 80            android:name="com.swapuniba.crowdpulse.handlers.GpsReceiver"
-80-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:73:13-49
+80-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:73:13-49
 81            android:exported="true" >
-81-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:74:13-36
+81-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:74:13-36
 82            <intent-filter>
-82-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:75:13-77:29
+82-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:75:13-77:29
 83                <action android:name="com.swapuniba.crowdpulse.action.PROCESS_UPDATES" />
-83-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:76:17-90
-83-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:76:25-87
+83-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:76:17-90
+83-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:76:25-87
 84            </intent-filter>
 85        </receiver>
 86        <receiver
-86-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:79:9-86:20
+86-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:79:9-86:20
 87            android:name="com.swapuniba.crowdpulse.handlers.AtivityReceiver_v28"
-87-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:80:13-57
+87-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:80:13-57
 88            android:exported="true"
-88-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:81:13-36
+88-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:81:13-36
 89            android:permission="com.google.android.gms.permission.ACTIVITY_RECOGNITION" >
-89-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:82:13-88
+89-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:82:13-88
 90            <intent-filter>
-90-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:83:13-85:29
+90-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:83:13-85:29
 91                <action android:name="com.swapuniba.crowdpulse.TRANSITIONS_RECEIVER_ACTION" />
-91-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:84:17-95
-91-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:84:25-92
+91-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:84:17-95
+91-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:84:25-92
 92            </intent-filter>
 93        </receiver>
 94
 95        <service
-95-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:88:9-92:72
+95-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:88:9-92:72
 96            android:name="com.swapuniba.crowdpulse.handlers.ActivityHandler"
-96-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:89:13-53
+96-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:89:13-53
 97            android:enabled="true"
-97-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:90:13-35
+97-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:90:13-35
 98            android:label="ActivityHandler"
-98-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:91:13-44
+98-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:91:13-44
 99            android:permission="android.permission.BIND_JOB_SERVICE" />
-99-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:92:13-69
+99-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:92:13-69
 100
 101        <provider
 101-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:31:9-37:35
@@ -346,8 +346,8 @@
 174            <intent-filter>
 174-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:114:13-118:29
 175                <action android:name="android.intent.action.BOOT_COMPLETED" />
-175-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:69:17-79
-175-->C:\Users\Marchetti\Desktop\CrowdPulse-v-Alarm-5m\crowd-pulse-app-android\app\src\main\AndroidManifest.xml:69:25-76
+175-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:17-79
+175-->C:\Users\Marchetti\Desktop\Ultimate Version\crowd-pulse-app-android-v29\app\src\main\AndroidManifest.xml:69:25-76
 176                <action android:name="android.intent.action.TIME_SET" />
 176-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:116:17-73
 176-->[androidx.work:work-runtime:2.3.4] C:\Users\Marchetti\.gradle\caches\transforms-2\files-2.1\234921bd55749073212c38fef6a1c1ef\work-runtime-2.3.4\AndroidManifest.xml:116:25-70
